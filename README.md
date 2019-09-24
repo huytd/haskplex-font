@@ -1,0 +1,7 @@
+# Haskplex = Hasklig + IBM Plex Mono
+
+This repository contains the combined version of **Hasklig** (bold + regular style) and **IBM Plex Mono** (italic + bold italic style) fonts. The font family has been renamed into **Haskplex**.
+
+![](screenshot.png)
+
+**Disclaimer:** I do not own any of the two fonts. All the work are done by the team behind both [Hasklig](https://github.com/i-tu/Hasklig) and [IBM Plex Mono](https://github.com/IBM/plex) font.

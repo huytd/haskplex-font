@@ -1,6 +1,9 @@
-Copyright © 2017 Huy Tran. with Reserved Font Name "Haskplex"
+Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+This repository contains the additional works to combine "Hasklig" and "Plex Mono" font into
+one named "Haskplex".
 
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 

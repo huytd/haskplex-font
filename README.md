@@ -4,6 +4,18 @@ This repository contains the combined version of **Hasklig** (bold + regular sty
 
 ![](screenshot.png)
 
+**Installation:**
+
+```
+$ brew tap huytd/cask-fonts
+
+# Install Haskplex font
+$ brew cask install font-haskplex
+
+# Install Haskplex Nerd font
+$ brew cask install font-haskplex-nerd
+```
+
 If you want icons, use **Haskplex Nerd**, the font is much more bigger because it was bundled with a lot of icons:
 
 ![](https://i.imgur.com/PelVJkY.png)
